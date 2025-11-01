@@ -1,6 +1,9 @@
 img {
   width: 300px;
   height: 400px;
+  border-radius: 100%;
+  margin-top: 200px;
+  margin-bottom: 20px;
 }
 body {
   text-align: center;
